@@ -8,8 +8,8 @@ body {
 
 /* Header Styling */
 .header {
-    background-color: #a915bd;  /* Dark blue */
-    color: #ecf0f1;             /* Light Gray */
+    background-color: #ecf0f1;  /* Light Gray */
+    color: #a915bd;             /* vice city */
     text-align: center;
     padding: 20px 0;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
